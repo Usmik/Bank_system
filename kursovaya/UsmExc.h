@@ -6,7 +6,6 @@
 #include<limits.h>
 #pragma comment(lib, "winmm.lib")
 
-//void MyTerminate();
 void CheckString(std::string str, int length);
 
 class UsmExc : public std::exception
